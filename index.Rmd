@@ -3,10 +3,17 @@ title: "About Me"
 output: html_document
 ---
 
-Hi! I'm Elijah!
+Hi! I'm Elijah Olive!
 
-I'm a computer science senior student who is focused on quantum computing, specifically error correction. I am hoping to go to graduate school and earn a doctorates degree and make some contribution in humanity's quest to build a functioning, fault-tolerant quantum computer. Despite my complex field of study, I have several hobbies including: playing D&D, drawing comics, and reading/writing fantasy novels. I own a dog named Gook-Soo (which means "noodle" in Korean), who is a 7 year old Australian Labradoodle and a therapy dog.
+I'm a computer science senior student who is focused on quantum computing, specifically error correction. I am hoping to go to graduate school and earn a doctorates degree and make some contribution in humanity's quest to build a functioning, fault-tolerant quantum computer.
 
+Despite my complex field of study, I have several hobbies including:
+
+* Playing D&D
+* Drawing comics
+* Reading/writing fantasy novels
+
+I own a dog named Gook-Soo (which means "noodle" in Korean), who is a 7 year old Australian Labradoodle and a therapy dog.
 
 ![Me and my dog](banana_dog.jpg)
 
