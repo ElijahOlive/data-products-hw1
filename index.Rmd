@@ -13,6 +13,8 @@ Despite my complex field of study, I have several hobbies including:
 * Drawing comics
 * Reading/writing fantasy novels
 
+You can find my code on [my GitHub Profile](https://github.com/elijaholive).
+
 I own a dog named Gook-Soo (which means "noodle" in Korean), who is a 7 year old Australian Labradoodle and a therapy dog.
 
 ![Me and my dog](banana_dog.jpg)
